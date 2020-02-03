@@ -28,6 +28,8 @@ own and control the sharing of their health data to advance health care.
    - Biological pathogens (bacteria, virus, parasites, etc) & toxins (metals, molds, man-made, etc)
  * Encouraging better communication between patients, clinical staff, researchers and educators
    - Increasing empathy and understanding to reduce suffering
+ * Root Cause Analysis
+ * Cultural Medicines
 
 ### Risks
 Due to the large number of unknowns in human physiology, there are a number of existing risks to account for:
@@ -35,7 +37,8 @@ Due to the large number of unknowns in human physiology, there are a number of e
  1. Exposure of personal information for abuse by criminals & private or public institutions
  2. Accidental or deliberate falsification of data
  3. Insufficient tests, data or understanding
- 4. Misdiagnosis
+ 4. Misdiagnosis & poor analysis
+ 5. Side effects from pharmaceutical, etc
 
 <a name="usage"/></a>
 ## Usage

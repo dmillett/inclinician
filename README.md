@@ -1,12 +1,14 @@
 # Inclinician
 
-**TODO**: www.inclinician.org
+**TODO**: www.inclinician.org (website)
+**TODO**: hosting (Digital Ocean, etc)
 
 An open source project intended to help educate and empower individuals' ability to measure, analyze, diagnose 
 and own all data to resolve health issues.
 
 * [Goals](#goals)
 * [Usage](#usage)
+* [Collaborate](#collaborate)
 
 <a name="goals"/></a>
 ## Goals
@@ -18,6 +20,7 @@ own and control the sharing of their health data to advance health care.
  * Cataloging and correlating symptoms with lab tests
  * To Facilitating and incentivizing an individual's ability to share anonymized patient data for research
    - And to and receive research results
+   - Blockchain contracts?
  * Promoting science based data driven advances in complex health systems
    - Understanding statistical confidence
    - Understanding scientific method, **continual measurement**
@@ -26,6 +29,7 @@ own and control the sharing of their health data to advance health care.
    - Test availability and lab quality
    - Immune signaling is very dynamic and complex
    - Biological pathogens (bacteria, virus, parasites, etc) & toxins (metals, molds, man-made, etc)
+   - Immune signature key to assign to test result sets
  * Encouraging better communication between patients, clinical staff, researchers and educators
    - Increasing empathy and understanding to reduce suffering
  * Root Cause Analysis
@@ -50,6 +54,11 @@ TODO
    - Standardizing symptom and test data into a standard schema or structure
  * Statistical Confidence
  * Scientific Method
+
+<a name="collaborate"/></a>
+## Collaborate & Contribute
+
+**TODO**
 
 ## License
 

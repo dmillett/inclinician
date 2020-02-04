@@ -24,7 +24,7 @@ own and control the sharing of their health data to advance health care.
  * Promoting science based data driven advances in complex health systems
    - Understanding statistical confidence
    - Understanding scientific method, **continual measurement**
- * Educating patients and the medical community on **custom treatment**
+ * Educating patients and the medical community on **Functional Medicine** and **custom treatment**
    - The uniqueness of genetic expression
    - Test availability and lab quality
    - Immune signaling is very dynamic and complex

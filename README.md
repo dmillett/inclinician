@@ -17,7 +17,7 @@ To help every individual better understand their highly unique, complex and dyna
 own and control the sharing of their health data to advance health care. 
  
  * Providing an accessible, open platform for individual health data 
- * Nutrition education
+ * Nutrition & Detox education
  * Cataloging and correlating symptoms with lab tests
  * To Facilitating and incentivizing an individual's ability to share anonymized patient data for research
    - And to and receive research results
@@ -34,6 +34,8 @@ own and control the sharing of their health data to advance health care.
  * Encouraging better communication between patients, clinical staff, researchers and educators
    - Increasing empathy and understanding to reduce suffering
  * Root Cause Analysis
+   - Symptoms may be overlapping and caused by a combination of toxins, pathogens and genetic expression
+   - Inflammation usually causes pain, alleviating pain is only part of the answer
  * Cultural Medicines
 
 ### Risks

@@ -1,7 +1,8 @@
 # Inclinician
 
+Funded by me:
 **TODO**: www.inclinician.org (website)
-**TODO**: hosting (Digital Ocean, etc)
+**TODO**: hosting (Linode, etc)
 
 An open source project intended to help educate and empower individuals' ability to measure, analyze, diagnose 
 and own all data to resolve health issues.

@@ -19,6 +19,7 @@ own and control the sharing of their health data to advance health care.
  * Providing an accessible, open platform for individual health data 
  * Functional, Specialty and Cultural medicine resources
  * Cataloging and correlating symptoms with lab tests
+   - written or voice symptom journaling is valuable data
  * Encouraging better communication between patients, clinical staff, researchers and educators
    - Increasing empathy and understanding to reduce suffering 
  * To Facilitating and incentivizing an individual's ability to share anonymized patient data for research

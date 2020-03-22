@@ -7,14 +7,31 @@ Funded by me:
 An open source project intended to help educate and empower individuals' ability to measure, analyze, diagnose 
 and own all data to resolve health issues.
 
-* [Goals](#goals)
-* [Usage](#usage)
-* [Collaborate](#collaborate)
+ * Providing an accessible, open platform for individual health data
+ * Encouraging better communication between patients, clinical staff, researchers and educators
+   - collecting & correlating patient symptom data (voice-to-text: chest tightness, achilles pain, etc)
+   - patient diagnostic measurement tools (skin, ultrasound, spectometry, mast cells, cytokines, etc) 
+ * Science & health education for doctors, patients and researchers
+ * Data analysis to help identify gaps in physiological testing methods
 
-<a name="goals"/></a>
-## Goals
-To help every individual better understand their highly unique, complex and dynamic body, while enabling them to
-own and control the sharing of their health data to advance health care. 
+ * [Data Complexity & Detailed Overview](#detailed-overview)
+ * [Usage](#usage)
+ * [Collaborate](#collaborate)
+
+<a name="detailed_overview"/></a>
+## Data Complexity & Detailed Overview
+Our planet and DNA would not exist without an enormous number of bacterial, viral and environmental influences 
+over the course of 1.5+ billion years. The net result is 7+ billion highly unique people within the context of 
+diminishing biodiversity and the interaction of our collective immune systems. Individual immune expression is a 
+complex differential equation relative to time, stimuli, genetic & adaptive immune response. With over 4 million 
+SNPs and hundreds of types of immune cells (cytokines, macrophages, tcells mast, etc) constantly change, there is 
+no deterministic formula that works. Billions of data points for immune signaling and adaptive immune responses are 
+required for people of different ages and locations. A large enough data matrix makes group correlations possible, 
+which in turn invites more data for further refinement. For example, data from household sanitary labs for septic 
+waste and air filtration. Data from personalized detection instruments ranging from spectrometers, 
+ultrasound/thermal/electro-magnetic field imaging, oxygen/breathe saturation and embedded nano-sampling of immune 
+signaling. And finally, voice-to-text symptom description. This will allow for safer and more effective medicines, 
+vaccines and treatments. A healthier world of scientific discovery awaits... 
  
  * Providing an accessible, open platform for individual health data 
  * Functional, Specialty and Cultural medicine resources
@@ -55,12 +72,34 @@ Due to the large number of unknowns in human physiology, there are a number of e
 ## Usage
 
 TODO
+### Example scenario
 
-### Resources
+An example of how modern western medicine fails to listen/view patient symptom data and understand
+the importance of proper testing and diagnosis. 
+
+#### tick bite (tb)
+   - no immediate symptoms
+   - tb + 2 weeks: single doxycycline (per cdc)
+   - tb + 2.5 weeks: some dizziness (voice-to-text)
+   - tb + 3 weeks: fever and severe achilles pain (voice-to-text, bluetooth sensors --> smartphone?)
+   - tb + 3 weeks: CDC Lyme western blot (negative, bad test criteria, bad lab, CDC failure)
+   - tb + 3 weeks: start Doxycycline
+   - tb + 34 days: left foot inflammation (voice-to-text, photo, skin temperature at inflammation, spectometry?)
+   - tb + 36 days: foot inflammation incorrectly diagnosed as cellulitis at ER, actual lyme herx reaction
+   - tb + 48 days: left achilles pain close to heel, Bartonella suspected
+   - tb + 
+   
+##### Lessons Learned
+   
+
+
+
+## Resources
  * Medschema (https://github.com/dmillett/medschema) 
    - Standardizing symptom and test data into a standard schema or structure
  * Statistical Confidence
  * Scientific Method
+ * Cellular Biology
 
 <a name="collaborate"/></a>
 ## Collaborate & Contribute

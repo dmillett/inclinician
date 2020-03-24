@@ -71,28 +71,16 @@ Due to the large number of unknowns in human physiology, there are a number of e
 <a name="usage"/></a>
 ## Usage
 
-TODO
-### Example scenario
+### Labs
 
-An example of how modern western medicine fails to listen/view patient symptom data and understand
-the importance of proper testing and diagnosis. 
+In many cases where chronic conditions exist improvements in health are delayed for specific conditions:
 
-#### tick bite (tb)
-   - no immediate symptoms
-   - tb + 2 weeks: single doxycycline (per cdc)
-   - tb + 2.5 weeks: some dizziness (voice-to-text)
-   - tb + 3 weeks: fever and severe achilles pain (voice-to-text, bluetooth sensors --> smartphone?)
-   - tb + 3 weeks: CDC Lyme western blot (negative, bad test criteria, bad lab, CDC failure)
-   - tb + 3 weeks: start Doxycycline
-   - tb + 34 days: left foot inflammation (voice-to-text, photo, skin temperature at inflammation, spectometry?)
-   - tb + 36 days: foot inflammation incorrectly diagnosed as cellulitis at ER, actual lyme herx reaction
-   - tb + 48 days: left achilles pain close to heel, Bartonella suspected
-   - tb + 
-   
-##### Lessons Learned
-   
-
-
+ * HLA DRB/Q genetic SNP testing (one time)
+   - can indicate potential to accumulate mold toxins and heavy metals
+   - http://hla.alleles.org/data/hla-drb.html
+ * Genova Ion Panel (repeat as necessary)
+   - nutritional evaluation 
+   - https://www.gdx.net/product/ion-profile-nutritional-test-blood
 
 ## Resources
  * Medschema (https://github.com/dmillett/medschema) 

@@ -33,7 +33,8 @@ ultrasound/thermal/electro-magnetic field imaging, oxygen/breathe saturation and
 signaling. And finally, voice-to-text symptom description. This will allow for safer and more effective medicines, 
 vaccines and treatments. A healthier world of scientific discovery awaits... 
  
- * Providing an accessible, open platform for individual health data 
+ * Providing an accessible, open platform for individual health data
+   - tracked and enforced via blockchain contracts 
  * Functional, Specialty and Cultural medicine resources
  * Cataloging and correlating symptoms with lab tests
    - written or voice symptom journaling is valuable data
@@ -71,6 +72,16 @@ Due to the large number of unknowns in human physiology, there are a number of e
 <a name="usage"/></a>
 ## Usage
 
+ 1. Capture physical aches/pains/fatigue/mood data via voice-to-text to schema (ex: medschema)
+ 2. Capture data from any personal medical equipment pulse/temperature/dermoscopy/spectrometers/etc to schema (ex: medschema)
+ 3. Ownership of all laboratory tests to schema
+ 4. Use this/any platform to identify medical research studies
+ 5. Establish contract within a blockchain construct
+    - credit, research results, donate, etc
+ 6. Get study results
+ 7. Analyze or submit for analysis to larger groups
+ 8. Repeat as necessary with new data
+
 ### Labs
 
 In many cases where chronic conditions exist improvements in health are delayed for specific conditions:
@@ -81,6 +92,11 @@ In many cases where chronic conditions exist improvements in health are delayed 
  * Genova Ion Panel (repeat as necessary)
    - nutritional evaluation 
    - https://www.gdx.net/product/ion-profile-nutritional-test-blood
+ * Inflammation markers (as necessary)
+   - SED
+   - C3a
+   - C4a
+   - TGF-b1
 
 ## Resources
  * Medschema (https://github.com/dmillett/medschema) 

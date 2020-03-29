@@ -145,10 +145,10 @@ of people are required. Educating patients and protecting their data is a priori
          "prescription":[{"time":"", "name":"", "dose":"", "form":"pill"}],
          "ultrasound":{"device":"abc", "location":"", "data":{}},
          "spectrometer":{"device":"foo", "location":"", "data":{}},
-         "breathalyzer":{"device":"foo", "location":"", "data":{}},
-         "urinalysis":{"device":"foo", "location":"", "data":{}},
-         "stool_analysis":{"device":"foo", "location":"", "data":{}},
-         "saliva_analysis":{"device":"foo", "location":"", "data":{}},
+         "breathalyzer":{"device":"foo", "data":{}},
+         "urinalysis":{"device":"foo", "data":{}},
+         "stool_analysis":{"device":"foo", "data":{}},
+         "saliva_analysis":{"device":"foo", "data":{}},
          "immune_signal_analysis":{"device":"foo", "location":"", "data":{"cytokines":{}, "white":{}, "mast":{}}} } }          
 ```
 

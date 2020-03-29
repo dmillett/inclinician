@@ -4,10 +4,11 @@ Funded by me:
 **TODO**: www.inclinician.org (website)
 **TODO**: hosting (Linode, etc)
 
-An open source project intended to help educate and empower individuals' ability to measure, analyze, diagnose 
+An open source project intended to help educate and empower individuals ability to measure, analyze, diagnose 
 and own all data to resolve health issues.
 
  * Providing an accessible, open platform for individual health data
+   - Share with doctors, research, etc via blockchain contracts, etc
  * Encouraging better communication between patients, clinical staff, researchers and educators
    - collecting & correlating patient symptom data (voice-to-text: chest tightness, achilles pain, etc)
    - patient diagnostic measurement tools (skin, ultrasound, spectometry, mast cells, cytokines, etc) 
@@ -20,6 +21,7 @@ and own all data to resolve health issues.
 
 <a name="detailed_overview"/></a>
 ## Data Complexity & Detailed Overview
+
 Our planet and DNA would not exist without an enormous number of bacterial, viral and environmental influences 
 over the course of 1.5+ billion years. The net result is 7+ billion highly unique people within the context of 
 diminishing biodiversity and the interaction of our collective immune systems. Individual immune expression is a 
@@ -63,18 +65,24 @@ vaccines and treatments. A healthier world of scientific discovery awaits...
 ### Risks
 Due to the large number of unknowns in human physiology, there are a number of existing risks to account for:
 
- 1. Exposure of personal information for abuse by criminals & private or public institutions
- 2. Accidental or deliberate falsification of data
- 3. Insufficient tests, equipment, data or understanding
- 4. Misdiagnosis & poor analysis
- 5. Side effects from pharmaceutical, supplements, herbs, vaccines, etc
+ 1. Failure to advance understanding of human immune systems
+ 2. Exposure of personal information for abuse by criminals & private or public institutions
+ 3. Accidental or deliberate falsification of data
+ 4. Insufficient tests, equipment, data or understanding
+ 5. Misdiagnosis & poor analysis
+ 6. Side effects from pharmaceutical, supplements, herbs, vaccines, etc
 
 <a name="usage"/></a>
 ## Usage
+Given the enormous variation and uniqueness of the human population and the cumulative, ongoing changes with
+immune expression (signaling, T-cells, b-cells, etc), it is important to gather as much data as possible before
+meaningful correlation and understanding of our unique immune responses can be understood.
 
  1. Capture physical aches/pains/fatigue/mood data via voice-to-text to schema (ex: medschema)
  2. Capture data from any personal medical equipment pulse/temperature/dermoscopy/spectrometers/etc to schema (ex: medschema)
+    - including equipment ID, etc
  3. Ownership of all laboratory tests to schema
+    - including lab ID and test ID
  4. Use this/any platform to identify medical research studies
  5. Establish contract within a blockchain construct
     - credit, research results, donate, etc
@@ -82,12 +90,74 @@ Due to the large number of unknowns in human physiology, there are a number of e
  7. Analyze or submit for analysis to larger groups
  8. Repeat as necessary with new data
 
+### Sample Data
+
+Submitting data with associated blockchain and contract for research, etc. The goal is to establish a few 
+defined schemas to facilitate data correlation. The following samples are from [Medschema](https://github.com/dmillett/medschema)
+Fields like **age**, **location** and **time** are important because the adaptive portion of the human immune
+system learns over time. Mold toxins (mycotoxins), and heavy metals can accumulate over time which can suppress some
+immune function (more data needed). Insects and animals can vector a plethora of viral/bacterial/parasitic pathogens that
+are new or reactivate immunity when previously encountered.
+
+#### current
+Descriptions and measurements with readily available personal equipment. It's a good start to detect disease
+migration and provides meaningful physical data for analysis. Billions of data points needed across hundreds of
+millions of people. Educating patients and protecting their data is a priority.
+
+Submit with **blockchain_id**, contract, etc
+
+```json
+{"identity":"foo123", "blockchain":{"id":"", "contract":""}, "location":{"postal-code": "", "type": "home"}, 
+ "date_time":"2020-03-28T17:07:31.000", "age":42, "gender":"", 
+ "data":{"temperature":{"device":"braunXyz" , "value":98.4}, "pulse":{"device":"hand", "value":68}, 
+         "oxygen":{"device":"oxi", "value":99}, "weight": {}, 
+         "descriptions":{"head":"", "sinus":"", "throat":"", "eyes":"", "stomach":"", "intestines":"", "lungs":"",
+                         "heart":"", "arms":"", "hands":"", "legs":"", "feet":"", "urine":"", "bowels":"", "skin":"",
+                         "back":"" ,"teeth":"", "tongue":"", "energy":"", "general":""},
+         "diet":{"time":[{"food":{}, "supplements":{}, "herbals":{}}]}, "exercise": {},
+         "prescription":[{"time":"", "name":"", "dose":"", "form":"pill"}]}},
+
+{"identity":"foo123", "blockchain":{"id":"", "contract":""}, "location":{"postal-code": "", "type": "home"},
+ "date_time":"2020-03-28T22:17:22.000", "age":42, "gender":"" 
+ "data":{"temperature":{"device":"braunXyz" , "value":100.5}, "pulse":{"device":"hand", "value":78}, 
+         "oxygen":{"device":"oxi", "value":97}, "weight": {}, 
+         "descriptions":{"head":"mild headache", "sinus":"heavy pressure", "throat":"sore", "eyes":"red", "stomach":"", 
+                         "intestines":"", "lungs":"cough with phlegm", "heart":"", "arms":"", "hands":"", "legs":"", "feet":"", 
+                         "urine":"", "bowels":"", "skin":"", "back":"low back ache", "teeth":"", "tongue":"", 
+                         "energy":"tired, low", "general": "mild body aches"},
+         "diet":{"time":[{"food":{}, "supplements":{}, "herbals":{}}]}, "exercise": {},
+         "prescription":[{"time":"", "name":"", "dose":"", "form":"pill"}]}}
+```
+
+#### future (to advance medical science)
+Descriptions and measurements with potential future personal equipment. Tens of billions of data points across billions
+of people are required. Educating patients and protecting their data is a priority.
+
+```json
+{"identity":"foo123", "blockchain":{"id":"", "contract":""}, "location":{"postal-code": "", "type": "home"},  
+ "date_time":"2020-03-28T17:07:31.000", "age":42, "gender":"",
+ "data":{"temperature":{"device":"braunXyz" , "value":98.4}, "pulse":{"device":"hand", "value":68}, 
+         "oxygen":{"device":"oxi", "value":99}, "weight": {},
+         "descriptions":{"head":"", "sinus":"", "throat":"", "eyes":"", "stomach":"", "intestines":"", "lungs":"",
+                         "heart":"", "arms":"", "hands":"", "legs":"", "feet":"", "urine":"", "bowels":"", "skin":"",
+                         "back":"", "teeth":"", "tongue":"", "energy":"", "general":""},
+         "diet":{"time":[{"food":{}, "supplements":{}, "herbals":{}}]}, "exercise": {},
+         "prescription":[{"time":"", "name":"", "dose":"", "form":"pill"}],
+         "ultrasound":{"device":"abc", "location":"", "data":{}},
+         "spectrometer":{"device":"foo", "location":"", "data":{}},
+         "breathalyzer":{"device":"foo", "location":"", "data":{}},
+         "urinalysis":{"device":"foo", "location":"", "data":{}},
+         "stool_analysis":{"device":"foo", "location":"", "data":{}},
+         "saliva_analysis":{"device":"foo", "location":"", "data":{}},
+         "immune_signal_analysis":{"device":"foo", "location":"", "data":{"cytokines":{}, "white":{}, "mast":{}}} } }          
+```
+
 ### Labs
 
 In many cases where chronic conditions exist improvements in health are delayed for specific conditions:
 
  * HLA DRB/Q genetic SNP testing (one time)
-   - can indicate potential to accumulate mold toxins and heavy metals
+   - can indicate potential to accumulate mold toxins and heavy metals over a lifetime
    - http://hla.alleles.org/data/hla-drb.html
  * Genova Ion Panel (repeat as necessary)
    - nutritional evaluation 

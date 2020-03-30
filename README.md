@@ -90,6 +90,19 @@ meaningful correlation and understanding of our unique immune responses can be u
  7. Analyze or submit for analysis to larger groups
  8. Repeat as necessary with new data
 
+### Blood Donation Labs
+
+Blood donations are important, but given the biological nature of Earth and the immune expression of the donor, 
+it is possible to transmit more than blood and plasma. Recently, screening blood for Babesia, a less virulent red
+blood cell ~parasite, was added to 
+
+Blood donations should be **screened**, **scored** and **ranked** for safety based conditions for things like pathogens
+and anomalies. Then the data is correlated, via doonor Blockchain, with research studies and stored in blood banks. 
+
+For example, the blood could be tested for common pathogens (Borellia, Bartonella, Babesia, Erlichia, Corona, etc) with
+**antibody testing** or **T-cell response** testing. This can help minimize the unintended transmission of pathogens or
+transmission of pathogens with treatment options.
+
 ### Sample Data
 
 Submitting data with associated blockchain and contract for research, etc. The goal is to establish a few 

@@ -4,19 +4,23 @@ Funded by me:
 **TODO**: www.inclinician.org (website)
 **TODO**: hosting (Linode, etc)
 
-An open source project intended to help educate and empower individuals ability to measure, analyze, diagnose 
-and own all data to resolve health issues.
+**In an incomplete model, almost all data is relevant**! This is open source project intended to help educate and empower 
+individuals ability to measure, analyze, diagnose and own all data to resolve health issues. This platform is 
+intended to:
 
- * Providing an accessible, open platform for individual health data
-   - Share with doctors, research, etc via blockchain contracts, etc
- * Encouraging better communication between patients, clinical staff, researchers and educators
-   - collecting & correlating patient symptom data (voice-to-text: chest tightness, achilles pain, etc)
-   - patient diagnostic measurement tools (skin, ultrasound, spectometry, mast cells, cytokines, etc) 
- * Science & health education for doctors, patients and researchers
- * Data analysis to help identify gaps in physiological testing methods
+ 1. Provide an accessible, open platform to facilitate sharing and education of individual health data. 
+    - Share via blockchain contract for research and medical analysis
+ 2. Encouraging better communication between patients, clinical staff, researchers and educators
+    - collecting & correlating patient symptom data (voice-to-text: chest tightness, achilles pain, etc)
+    - patient diagnostic measurement tools (skin, ultrasound, spectometry, mast cells, cytokines, etc) 
+ 3. Science & health education for doctors, patients and researchers
+ 4. Data analysis to help identify gaps in physiological testing methods
 
  * [Data Complexity & Detailed Overview](#detailed-overview)
  * [Usage](#usage)
+   - [Example: Blood Donations](#blood)
+   - [Example: Current (current devices) Data Sample](#current-data-options)
+   - [Example: Future (new devices) Data Sample](#future-data-options)
  * [Collaborate](#collaborate)
 
 <a name="detailed_overview"/></a>
@@ -36,14 +40,14 @@ signaling. And finally, voice-to-text symptom description. This will allow for s
 vaccines and treatments. A healthier world of scientific discovery awaits... 
  
  * Providing an accessible, open platform for individual health data
-   - tracked and enforced via blockchain contracts 
+   - Tracked and enforced via blockchain contracts 
  * Functional, Specialty and Cultural medicine resources
  * Cataloging and correlating symptoms with lab tests
-   - written or voice symptom journaling is valuable data
+   - Written or voice symptom journaling is valuable data
  * Encouraging better communication between patients, clinical staff, researchers and educators
    - Increasing empathy and understanding to reduce suffering 
  * To Facilitating and incentivizing an individual's ability to share anonymized patient data for research
-   - And to and receive research results
+   - Receive research results
    - Blockchain contracts?
  * Educating patients and the medical community on **Functional Medicine** and **custom treatment**
    - Nutrition
@@ -52,7 +56,7 @@ vaccines and treatments. A healthier world of scientific discovery awaits...
    - Test availability and lab quality
    - Immune signaling is very dynamic and complex
    - Biological pathogens (bacteria, virus, parasites, etc) & toxins (metals, molds, man-made, etc)
-     - protein fragments from immune action
+     - Protein fragments from immune action
    - Autoimmune conditions  
    - Immune signature key to assign to test result sets
  * Promoting science based data driven advances in complex health systems
@@ -60,7 +64,7 @@ vaccines and treatments. A healthier world of scientific discovery awaits...
    - Understanding scientific method, **continual measurement**, new variables, etc      
  * Root Cause Analysis
    - Symptoms may be overlapping and caused by a combination of toxins, pathogens and genetic expression
-   - **Inflammation usually causes pain** and/or tissue damage, alleviating pain is only part of the answer
+   - **Inflammation usually causes pain** and/or tissue/organ damage, alleviating pain is only part of the answer
 
 ### Risks
 Due to the large number of unknowns in human physiology, there are a number of existing risks to account for:
@@ -90,6 +94,7 @@ meaningful correlation and understanding of our unique immune responses can be u
  7. Analyze or submit for analysis to larger groups
  8. Repeat as necessary with new data
 
+<a name="blood"/></a>
 ### Blood Donation Labs
 
 Blood donations are important, but given the biological nature of Earth and the immune expression of the donor, 
@@ -103,6 +108,7 @@ For example, the blood could be tested for common pathogens (Borellia, Bartonell
 **antibody testing** or **T-cell response** testing. This can help minimize the unintended transmission of pathogens or
 transmission of pathogens with treatment options.
 
+<a name="sample-data"/></a>
 ### Sample Data
 
 Submitting data with associated blockchain and contract for research, etc. The goal is to establish a few 
@@ -112,7 +118,8 @@ system learns over time. Mold toxins (mycotoxins), and heavy metals can accumula
 immune function (more data needed). Insects and animals can vector a plethora of viral/bacterial/parasitic pathogens that
 are new or reactivate immunity when previously encountered.
 
-#### current
+<a name="current-data-options"/></a>
+#### current: personal equipment available today
 Descriptions and measurements with readily available personal equipment. It's a good start to detect disease
 migration and provides meaningful physical data for analysis. Billions of data points needed across hundreds of
 millions of people. Educating patients and protecting their data is a priority.
@@ -142,7 +149,8 @@ Submit with **blockchain_id**, contract, etc
          "prescription":[{"time":"", "name":"", "dose":"", "form":"pill"}]}}
 ```
 
-#### future (to advance medical science)
+<a name="future-data-options"/></a>
+#### future: future personal equipment (to advance medical science)
 Descriptions and measurements with potential future personal equipment. Tens of billions of data points across billions
 of people are required. Educating patients and protecting their data is a priority.
 

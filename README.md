@@ -99,10 +99,10 @@ meaningful correlation and understanding of our unique immune responses can be u
 
 Blood donations are important, but given the biological nature of Earth and the immune expression of the donor, 
 it is possible to transmit more than blood and plasma. Recently, screening blood for Babesia, a less virulent red
-blood cell ~parasite, was added to 
+blood cell ~parasite, in many blood collection facilities in the US. 
 
-Blood donations should be **screened**, **scored** and **ranked** for safety based conditions for things like pathogens
-and anomalies. Then the data is correlated, via doonor Blockchain, with research studies and stored in blood banks. 
+All blood donations should be **screened**, **scored** and **ranked** for safety based conditions for things like pathogens
+and anomalies. Then the data is correlated, via donor Blockchain, with research studies and stored in blood banks. 
 
 For example, the blood could be tested for common pathogens (Borellia, Bartonella, Babesia, Erlichia, Corona, etc) with
 **antibody testing** or **T-cell response** testing. This can help minimize the unintended transmission of pathogens or
@@ -190,11 +190,11 @@ In many cases where chronic conditions exist improvements in health are delayed 
    - TGF-b1
 
 ## Resources
+ * Statistical Confidence (wikipedia)
+ * Scientific Method (wikipedia)
+ * Cellular Biology (wikipedia; "Molecular Biology of the Cell, 6th; etc)
  * Medschema (https://github.com/dmillett/medschema) 
    - Standardizing symptom and test data into a standard schema or structure
- * Statistical Confidence
- * Scientific Method
- * Cellular Biology
 
 <a name="collaborate"/></a>
 ## Collaborate & Contribute

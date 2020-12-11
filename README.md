@@ -217,6 +217,10 @@ How to collect immune response data and measure variability?
  * How would/do existing pathogens (Lyme, Bartonella, etc) in biofilms uptake the mRNA?
  * Will HLA genetic SNPs play a role in removing generated protein fragments from the body?
    - Is this what "long haulers" experience?
+ * Spike protein presentation from natural infection (nasal/airways/eyes) vs localized/systemic muscle tissue generated?
+ * What similarity between non-spike proteins produced & other proteins, current & probable, Ab/T immune function? 
+   - Would this potentially result in auto immune responses?
+   - Epigenetic changes?
 
 How is the vaccine effectiveness measured among recipient distributions?
  * Were there T-cells demonstrating no previous exposure prior to vaccine for trial & placebo groups
@@ -230,6 +234,7 @@ How is the vaccine effectiveness measured among recipient distributions?
    - genetics?
  * What was different about the 5 - 10% of vaccine recipients who got sick?
    - see metrics above
+ * How does vaccine delivery differ from normal, droplet transmission?
 
 #### Nutrition
  * Vitamin D (immune, T-cell increase)
@@ -252,6 +257,29 @@ How is the vaccine effectiveness measured among recipient distributions?
      - What metrics were better?
      - Why isn't the reduced dose used going forward?
      - Shouldn't Phase 3 be restarted?
+
+#### BioNtech/Pfizer
+ * https://www.fda.gov/media/144245/download
+ * T-cell testing for Phase 1 (45/90 - vaccine/placebo) baselines and post vaccine
+   - Was this for both vaccinated & placebo groups? (missing/no data)
+   - What were baseline values? (missing/no data)
+   - Did baseline values indicate previous exposure and/or responsiveness? (missing/no data)
+ * T-cell response testing happened for first ~360 Phase 2 recipients
+    - Was this for both vaccinated & placebo groups? (missing/no data)
+    - What were baseline values? (missing/no data)
+    - Did baseline values indicate previous exposure and/or responsiveness? (missing/no data)  
+ * Age, ethnicity and gender groups data provided, but no location data
+   - Population density increases risk of spread 
+   - Population density also indicates increased chance of previous exposure
+   - What were the geographic locations of infected placebo, vaccine recipients?
+   - What were the locations of the non-infected placebo, vaccine recipients?
+ * Autoimmune conditions can arise from any new proteins/pathogens/toxins/etc in the body
+   - Why is the study limited to 8 weeks for new vaccine type mRNA?
+ * No positive tests are counted between Day 1 (dose 1) + 7 days after last dose
+   - Why is phase 2+ testing limited to nasal turbinate PCR (or equivalent) test?
+   - Why is any positive test between Day 1 (dose 1) - Day 28 (dose 2 + 7 days) ignored/excluded?
+   - Since the vaccine failed to provide immunity for some, where is their immunogenicity data?
+ * Why are there no recommendations of a single dose for people with lower risk factors (age < 65)?
 
 ## Resources
  * Statistical Confidence (wikipedia)

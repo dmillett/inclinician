@@ -235,6 +235,8 @@ How is the vaccine effectiveness measured among recipient distributions?
  * What was different about the 5 - 10% of vaccine recipients who got sick?
    - see metrics above
  * How does vaccine delivery differ from normal, droplet transmission?
+ * What about Antibody Disease Enhancement (ADE) risk for SARS-COV-2 vs other coronaviruses?
+   - This is an acknowleged risk by the FDA, but is ignored by the media.
 
 #### Nutrition
  * Vitamin D (immune, T-cell increase)
@@ -256,7 +258,7 @@ How is the vaccine effectiveness measured among recipient distributions?
    - Why was the reduced dose (1/2, 1 ... 3/4 full dose) more effective?
      - What metrics were better?
      - Why isn't the reduced dose used going forward?
-     - Shouldn't Phase 3 be restarted?
+     - Should Phase 3 be updated?
 
 #### BioNtech/Pfizer
  * https://www.fda.gov/media/144245/download
@@ -280,6 +282,13 @@ How is the vaccine effectiveness measured among recipient distributions?
    - Why is any positive test between Day 1 (dose 1) - Day 28 (dose 2 + 7 days) ignored/excluded?
    - Since the vaccine failed to provide immunity for some, where is their immunogenicity data?
  * Why are there no recommendations of a single dose for people with lower risk factors (age < 65)?
+
+#### Moderna
+ * Similar to Pfizer except no positive test counted until last dose + 14 days
+ * No T-cell testing indicated from phase 1 testing in FDA report (seems like they did it though)
+ * ADE risk is acknowledged, but will likely require more than 8 weeks of surveillance for all recipients.
+ * FDA and media pointed out Moderna's 3 cases of Bells Palsy out of ~13k+ vaccine recipients, but did not
+give similar mention to Pfizer's 4 cases for 18k+ vaccine recipients.
 
 ## Resources
  * Statistical Confidence (wikipedia)

@@ -198,6 +198,32 @@ a problem of opaque data and results. How can feedback and improvement be incorp
 and application of vaccines and pharmaceuticals? How can doses and ingredients be customized to increase effectiveness
 and reduce risk for patients?
 
+### Risk
+It is possible and would be highly educational to build and update charts based on the following:
+
+ * Infection Risk
+   - direct interaction with other people
+ * Disease Risk (symptomatic & asymptomatic)
+    - immune system deficiencies
+    - nutrition deficiencies
+    - HLA genetic responses for antibody formation to proteins (cannot assume a homogeneous response)
+    - organ damage
+    - long term symptoms ("long covid")
+ * Treatment Risk (vaccines, pharmaceuticals, nutrition)
+   - allergies
+   - immune system deficiencies
+   - nutrition deficiencies
+   - HLA genetic responses for antibody formation to proteins (cannot assume a homogeneous response)
+   - organ damage
+
+Across metrics like:
+ * age
+ * gender
+ * ethnicity
+ * location
+ * nutrition
+ * existing health
+
 ### Sars-Cov-2 ('covid 19')
 A lot more data is needed from severely ill patients and asymptomatic people to get a better understanding of
  * How is immunity working for asymptomatic people?
@@ -206,6 +232,19 @@ A lot more data is needed from severely ill patients and asymptomatic people to 
    - Are any chronic conditions noted?
    - Was there minor, repairable organ damage?  
    - Was there stroke damage? (see D-dimer lab)
+ * What HLA genetic SNPs allow people to form antibodies to all/some of the proteins in Sars-Cov-2
+ * Vaccines seem safe in the near term for preventing severe illness
+ * Vaccines do little to prevent spread
+ * Limited vaccine data has been released to the public or medical professionals requesting it
+   - A 70 year block was put in place by the FDA -- and yet they certified it save in 3 months
+
+#### Testing & Verification
+ * Which antibody groups are measured?
+   - spike (overlap with mRNA vaccines) and/or nucleocapsid (no overlap with mRNA vaccines)
+   - What are averages per lab?
+ * Which T-cell types are measured?
+   - See https://www.infectolab-americas.com/
+   - t-detect.com
 
 #### mRNA Vaccines Questions
 How to collect immune response data and measure variability?
@@ -236,7 +275,16 @@ How is the vaccine effectiveness measured among recipient distributions?
    - see metrics above
  * How does vaccine delivery differ from normal, droplet transmission?
  * What about Antibody Disease Enhancement (ADE) risk for SARS-COV-2 vs other coronaviruses?
-   - This is an acknowleged risk by the FDA, but is ignored by the media.
+   - This is an acknowledged risk by the FDA, but is ignored by the media.
+
+#### VAERS
+ * A deliberately imperfect surveillance system for adverse responses from vaccines
+   - covid vaccines have killed > 9000 people in the US in the last year
+   - heart damage with young adults
+   - 40,000 significant hospitalization events
+   - https://vaersanalysis.info/2021/12/18/vaers-summary-for-covid-19-vaccines-through-12-10-2021/
+   - **WHY?**
+ * Data from VAERS seems to be ignored instead of used to identify treatment vulnerabilities and vaccine improvement
 
 #### Nutrition
  * Vitamin D (immune, T-cell increase)
@@ -245,6 +293,8 @@ How is the vaccine effectiveness measured among recipient distributions?
  * Zinc (anti-covid cellular integrity)
  * Vitamin C (antioxidant, detox)
  * Glutathione (antioxidant, detox)
+ * Vitamins A, C, E
+ * **see Genova Labs Ion Panel test**
 
 #### Astra Zeneca
  * A Phase 2 recipient developed Multiple Sclerosis

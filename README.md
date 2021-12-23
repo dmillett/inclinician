@@ -237,6 +237,10 @@ A lot more data is needed from severely ill patients and asymptomatic people to 
  * Vaccines do little to prevent spread
  * Limited vaccine data has been released to the public or medical professionals requesting it
    - A 70 year block was put in place by the FDA -- and yet they certified it save in 3 months
+ * There is a huge push in the United States to ignore immunity from natural infection
+   - This is scientifically wrong as there's plenty of data from Europe where infection provides lasting immunity
+   - Why doesn't the US do more studies comparing levels/sources of immunity?
+   - Why does the US insist on vaccine only immunity when there are plenty of breakthrough cases (spread & infection)?
 
 #### Testing & Verification
  * Which antibody groups are measured?
